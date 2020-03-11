@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>嘉文作業</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/未命名網站 2/17/網頁實作範例/images/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="all">
+<div class="header">
+  <h1><img src="file:///D|/未命名網站 2/17/網頁實作範例/images/banner.jpg" width="1200" height="480">
+    <li><a href="#">HOMEPAGE</a></li>
+    <li><a href="#">LEFT SIDEBAR</a></li>
+    <li><a href="#">RIGHT SIDEBAR</a></li>
+    <li><a href="#">NO SIDEBAR</a></li>
+	  <ul>
+		  
+  </ul></h1>
+</div>
+<div class="nav">
+  
+  </div>
+<div class="nav">
+  <ul>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+    <li><a href="#">企鵝樹家族</a></li>
+  </ul>
+</div>
+<div class="footer">
+<h3>企鵝樹家族餐飲集團</h3>
+<p>版權所有‧請勿任意轉載 http://www.penguintree.com.tw/</p>
+</div>
+</div>
+</body>
+</html>
